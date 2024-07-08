@@ -1,0 +1,7 @@
+{
+  "name": "first_fly",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
